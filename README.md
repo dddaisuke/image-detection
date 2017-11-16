@@ -1,3 +1,5 @@
+Go言語で認識エンジンを開発しましたが、今すぐ業務改善に使いたいという会社があったため、非公開にします。こんな物も作ったよという記録代わりに、使い方と実行結果は残しておきます。興味がある事業者の方はご一報下さい。
+
 # image-detection
 
 > [USAGE] img-detection COMMAND [-o output_format] input_filename
